@@ -1,3 +1,5 @@
+create environment variables and import all the necessary packages required for app.py
+
 -- Create the database
 CREATE DATABASE IF NOT EXISTS blog;
 USE blog;
